@@ -1,4 +1,4 @@
-# Math.H
+# math.h
 
 ## Information
 
